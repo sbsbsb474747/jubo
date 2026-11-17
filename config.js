@@ -7,5 +7,5 @@ window.CHURCH_APP = {
 
   // ② 구글 앱스 스크립트에서 배포한 '웹 앱 주소'를 따옴표 안에 붙여 넣으세요.
   //    https://script.google.com/macros/s/ 로 시작해서 /exec 로 끝나는 주소입니다.
-  exec: 'https://script.google.com/macros/s/AKfycbyt9Rb_EQOV9M90lgBmDc3FW90S35SCK-tsK1a7w8ERZHcU2LALkdq4JqE7Ve68iKCB/exec'
+  exec: 'https://script.google.com/macros/s/AKfycbyt9Rb_EQOV9M90lgBmDc3FW90S35SCK-tsK1a7w8ERZHcU2LALkdq4JqE7Ve68iKCB/exec?d=2026-11-22&pv=COz39QjHEsD0fWTk'
 };
